@@ -4,7 +4,7 @@
          "description": "Create the initial design for the homepage.",
          "assign_date": "2024-06-01",
          "due_date": "2024-06-05",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "urgent"
      },
      {
@@ -12,7 +12,7 @@
          "description": "Resolve the issue with user login.",
          "assign_date": "2024-06-02",
          "due_date": "2024-06-03",
-         "status": "todo",
+         "status": "Todo",
          "priority": "within one day"
      },
      {
@@ -20,7 +20,7 @@
          "description": "Add unit tests for the new features.",
          "assign_date": "2024-06-03",
          "due_date": "2024-06-07",
-         "status": "in DevReview",
+         "status": "InDevReview",
          "priority": "after review"
      },
      {
@@ -28,7 +28,7 @@
          "description": "Update the project documentation to reflect recent changes.",
          "assign_date": "2024-06-04",
          "due_date": "2024-06-10",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -36,7 +36,7 @@
          "description": "Improve database performance.",
          "assign_date": "2024-06-05",
          "due_date": "2024-06-12",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "within one day"
      },
      {
@@ -52,7 +52,7 @@
          "description": "Review code for the latest merge request.",
          "assign_date": "2024-06-07",
          "due_date": "2024-06-08",
-         "status": "in DevReview",
+         "status": "InDevReview",
          "priority": "after review"
      },
      {
@@ -60,7 +60,7 @@
          "description": "Deploy the latest build to the production environment.",
          "assign_date": "2024-06-08",
          "due_date": "2024-06-09",
-         "status": "todo",
+         "status": "Todo",
          "priority": "urgent"
      },
      {
@@ -68,7 +68,7 @@
          "description": "Provide feedback on the new UI designs.",
          "assign_date": "2024-06-09",
          "due_date": "2024-06-11",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "within one day"
      },
      {
@@ -76,7 +76,7 @@
          "description": "Configure continuous integration and delivery pipelines.",
          "assign_date": "2024-06-10",
          "due_date": "2024-06-14",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -84,7 +84,7 @@
          "description": "Prioritize and assign newly reported bugs.",
          "assign_date": "2024-06-11",
          "due_date": "2024-06-12",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "within one day"
      },
      {
@@ -92,7 +92,7 @@
          "description": "Draft a blog post about the new features.",
          "assign_date": "2024-06-12",
          "due_date": "2024-06-15",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -100,7 +100,7 @@
          "description": "Conduct performance tests on the application.",
          "assign_date": "2024-06-13",
          "due_date": "2024-06-16",
-         "status": "in DevReview",
+         "status": "InDevReview",
          "priority": "urgent"
      },
      {
@@ -108,7 +108,7 @@
          "description": "Perform a security audit of the application.",
          "assign_date": "2024-06-14",
          "due_date": "2024-06-18",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -116,7 +116,7 @@
          "description": "Conduct training sessions for new users.",
          "assign_date": "2024-06-15",
          "due_date": "2024-06-17",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "within one day"
      },
      {
@@ -124,7 +124,7 @@
          "description": "Migrate data from the old system to the new one.",
          "assign_date": "2024-06-16",
          "due_date": "2024-06-20",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -132,7 +132,7 @@
          "description": "Revise the privacy policy in line with new regulations.",
          "assign_date": "2024-06-17",
          "due_date": "2024-06-19",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "urgent"
      },
      {
@@ -148,7 +148,7 @@
          "description": "Plan the next set of features for development.",
          "assign_date": "2024-06-19",
          "due_date": "2024-06-21",
-         "status": "in DevReview",
+         "status": "InDevReview",
          "priority": "after review"
      },
      {
@@ -156,7 +156,7 @@
          "description": "Add integration with a new payment gateway.",
          "assign_date": "2024-06-20",
          "due_date": "2024-06-23",
-         "status": "todo",
+         "status": "Todo",
          "priority": "urgent"
      },
      {
@@ -164,7 +164,7 @@
          "description": "Refactor the codebase to improve maintainability.",
          "assign_date": "2024-06-21",
          "due_date": "2024-06-25",
-         "status": "in progress",
+         "status": "InProgress",
          "priority": "within one day"
      },
      {
@@ -172,7 +172,7 @@
          "description": "Analyze market trends and report findings.",
          "assign_date": "2024-06-22",
          "due_date": "2024-06-27",
-         "status": "todo",
+         "status": "Todo",
          "priority": "after review"
      },
      {
@@ -188,7 +188,7 @@
          "description": "Conduct user experience research for the new feature.",
          "assign_date": "2024-06-24",
          "due_date": "2024-06-28",
-         "status": "in DevReview",
+         "status": "InDevReview",
          "priority": "after review"
      },
      {
@@ -196,7 +196,7 @@
          "description": "Develop a content strategy for the next quarter.",
          "assign_date": "2024-06-25",
          "due_date": "2024-06-30",
-         "status": "todo",
+         "status": "Todo",
          "priority": "within one day"
      }
  ]
