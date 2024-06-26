@@ -6,7 +6,7 @@
          "due_date": "2024-06-05",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -16,7 +16,7 @@
          "due_date": "2024-06-03",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -26,7 +26,7 @@
          "due_date": "2024-06-07",
          "status": "InDevReview",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -36,7 +36,7 @@
          "due_date": "2024-06-10",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -46,7 +46,7 @@
          "due_date": "2024-06-12",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -56,7 +56,7 @@
          "due_date": "2024-06-06",
          "status": "Done",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -66,7 +66,7 @@
          "due_date": "2024-06-08",
          "status": "InDevReview",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -76,7 +76,7 @@
          "due_date": "2024-06-09",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -86,7 +86,7 @@
          "due_date": "2024-06-11",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -96,7 +96,7 @@
          "due_date": "2024-06-14",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -106,7 +106,7 @@
          "due_date": "2024-06-12",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -116,7 +116,7 @@
          "due_date": "2024-06-15",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -126,7 +126,7 @@
          "due_date": "2024-06-16",
          "status": "InDevReview",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -136,7 +136,7 @@
          "due_date": "2024-06-18",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -146,7 +146,7 @@
          "due_date": "2024-06-17",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -156,7 +156,7 @@
          "due_date": "2024-06-20",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -166,7 +166,7 @@
          "due_date": "2024-06-19",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -176,7 +176,7 @@
          "due_date": "2024-06-18",
          "status": "Done",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -186,7 +186,7 @@
          "due_date": "2024-06-21",
          "status": "InDevReview",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -196,7 +196,7 @@
          "due_date": "2024-06-23",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -206,7 +206,7 @@
          "due_date": "2024-06-25",
          "status": "InProgress",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      },
      {
@@ -216,7 +216,7 @@
          "due_date": "2024-06-27",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -226,7 +226,7 @@
          "due_date": "2024-06-24",
          "status": "Done",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "urgent"
      },
      {
@@ -236,7 +236,7 @@
          "due_date": "2024-06-28",
          "status": "InDevReview",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "after review"
      },
      {
@@ -246,7 +246,7 @@
          "due_date": "2024-06-30",
          "status": "Todo",
          "comments":[{"comments":"",
-         "image":""},{},{},{}],
+         "image":""}],
          "priority": "within one day"
      }
  ]
