@@ -6,8 +6,7 @@
          "assign_date": "2024-06-01",
          "due_date": "2024-06-05",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -17,8 +16,7 @@
          "assign_date": "2024-06-02",
          "due_date": "2024-06-03",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -28,8 +26,7 @@
          "assign_date": "2024-06-03",
          "due_date": "2024-06-07",
          "status": "InDevReview",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -39,8 +36,7 @@
          "assign_date": "2024-06-04",
          "due_date": "2024-06-10",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -50,8 +46,7 @@
          "assign_date": "2024-06-05",
          "due_date": "2024-06-12",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -61,8 +56,7 @@
          "assign_date": "2024-06-06",
          "due_date": "2024-06-06",
          "status": "Done",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -72,8 +66,7 @@
          "assign_date": "2024-06-07",
          "due_date": "2024-06-08",
          "status": "InDevReview",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -83,8 +76,7 @@
          "assign_date": "2024-06-08",
          "due_date": "2024-06-09",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -94,8 +86,7 @@
          "assign_date": "2024-06-09",
          "due_date": "2024-06-11",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -105,8 +96,7 @@
          "assign_date": "2024-06-10",
          "due_date": "2024-06-14",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -116,8 +106,7 @@
          "assign_date": "2024-06-11",
          "due_date": "2024-06-12",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -127,8 +116,7 @@
          "assign_date": "2024-06-12",
          "due_date": "2024-06-15",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -138,8 +126,7 @@
          "assign_date": "2024-06-13",
          "due_date": "2024-06-16",
          "status": "InDevReview",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -149,8 +136,7 @@
          "assign_date": "2024-06-14",
          "due_date": "2024-06-18",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -160,8 +146,7 @@
          "assign_date": "2024-06-15",
          "due_date": "2024-06-17",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -171,8 +156,7 @@
          "assign_date": "2024-06-16",
          "due_date": "2024-06-20",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -182,8 +166,7 @@
          "assign_date": "2024-06-17",
          "due_date": "2024-06-19",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -193,8 +176,7 @@
          "assign_date": "2024-06-18",
          "due_date": "2024-06-18",
          "status": "Done",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -204,8 +186,7 @@
          "assign_date": "2024-06-19",
          "due_date": "2024-06-21",
          "status": "InDevReview",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -215,8 +196,7 @@
          "assign_date": "2024-06-20",
          "due_date": "2024-06-23",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -226,8 +206,7 @@
          "assign_date": "2024-06-21",
          "due_date": "2024-06-25",
          "status": "InProgress",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      },
      {
@@ -237,8 +216,7 @@
          "assign_date": "2024-06-22",
          "due_date": "2024-06-27",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -248,8 +226,7 @@
          "assign_date": "2024-06-23",
          "due_date": "2024-06-24",
          "status": "Done",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "urgent"
      },
      {
@@ -259,8 +236,7 @@
          "assign_date": "2024-06-24",
          "due_date": "2024-06-28",
          "status": "InDevReview",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "after review"
      },
      {
@@ -270,8 +246,7 @@
          "assign_date": "2024-06-25",
          "due_date": "2024-06-30",
          "status": "Todo",
-         "comments":[{"comments":"you can do fast ",
-         "image":"https://img.freepik.com/free-vector/isometric-time-management-concept-illustrated_52683-55534.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719360000&semt=sph"}],
+
          "priority": "within one day"
      }
  ]
